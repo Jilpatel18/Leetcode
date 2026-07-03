@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Jilpatel18/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Jilpatel18/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
