@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Jilpatel18/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Jilpatel18/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Jilpatel18/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Jilpatel18/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/Jilpatel18/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 <!---LeetCode Topics End-->
