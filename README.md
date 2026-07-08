@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Jilpatel18/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/Jilpatel18/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
