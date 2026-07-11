@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Jilpatel18/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
