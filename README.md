@@ -90,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jilpatel18/Leetcode/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Jilpatel18/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Jilpatel18/Leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Jilpatel18/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
