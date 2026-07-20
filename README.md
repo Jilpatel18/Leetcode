@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Jilpatel18/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3668-restore-finishing-order](https://github.com/Jilpatel18/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Jilpatel18/Leetcode/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/Jilpatel18/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Jilpatel18/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
