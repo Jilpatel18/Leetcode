@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0498-diagonal-traverse](https://github.com/Jilpatel18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Jilpatel18/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Jilpatel18/Leetcode/tree/master/3467-transform-array-by-parity) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
