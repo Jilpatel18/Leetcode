@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Jilpatel18/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/Jilpatel18/Leetcode/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Jilpatel18/Leetcode/tree/master/0796-rotate-string) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jilpatel18/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jilpatel18/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Jilpatel18/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
