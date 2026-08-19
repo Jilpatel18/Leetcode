@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Jilpatel18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Jilpatel18/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jilpatel18/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Jilpatel18/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Jilpatel18/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Jilpatel18/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 ## String
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Jilpatel18/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3467-transform-array-by-parity](https://github.com/Jilpatel18/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -177,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
