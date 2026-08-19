@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0498-diagonal-traverse](https://github.com/Jilpatel18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Jilpatel18/Leetcode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Jilpatel18/Leetcode/tree/master/0682-baseball-game) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jilpatel18/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Jilpatel18/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jilpatel18/Leetcode/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Jilpatel18/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [3467-transform-array-by-parity](https://github.com/Jilpatel18/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -168,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Jilpatel18/Leetcode/tree/master/0796-rotate-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
