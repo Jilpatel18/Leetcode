@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jilpatel18/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Jilpatel18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Jilpatel18/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jilpatel18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jilpatel18/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Jilpatel18/Leetcode/tree/master/0443-string-compression) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jilpatel18/Leetcode/tree/master/0011-container-with-most-water) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Jilpatel18/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Jilpatel18/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
 ## Binary Search
