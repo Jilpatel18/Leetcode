@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Jilpatel18/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Jilpatel18/Leetcode/tree/master/0567-permutation-in-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Jilpatel18/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Jilpatel18/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Jilpatel18/Leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Jilpatel18/Leetcode/tree/master/0796-rotate-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Jilpatel18/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jilpatel18/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
