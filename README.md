@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Jilpatel18/Leetcode/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Jilpatel18/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Jilpatel18/Leetcode/tree/master/0661-image-smoother) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Jilpatel18/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Jilpatel18/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Jilpatel18/Leetcode/tree/master/1753-maximum-score-from-removing-stones) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jilpatel18/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jilpatel18/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/Jilpatel18/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jilpatel18/Leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Jilpatel18/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Jilpatel18/Leetcode/tree/master/0567-permutation-in-string) |
