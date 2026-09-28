@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/Jilpatel18/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jilpatel18/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jilpatel18/Leetcode/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jilpatel18/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/Jilpatel18/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Jilpatel18/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jilpatel18/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
