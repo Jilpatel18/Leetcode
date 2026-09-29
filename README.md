@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jilpatel18/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Jilpatel18/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jilpatel18/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jilpatel18/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Jilpatel18/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Jilpatel18/Leetcode/tree/master/0567-permutation-in-string) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Jilpatel18/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jilpatel18/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Jilpatel18/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jilpatel18/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Jilpatel18/Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jilpatel18/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jilpatel18/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
