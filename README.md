@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Jilpatel18/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jilpatel18/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Jilpatel18/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jilpatel18/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jilpatel18/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jilpatel18/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2418-sort-the-people](https://github.com/Jilpatel18/Leetcode/tree/master/2418-sort-the-people) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jilpatel18/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jilpatel18/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jilpatel18/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Jilpatel18/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jilpatel18/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jilpatel18/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jilpatel18/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Jilpatel18/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Jilpatel18/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Ternary Search
